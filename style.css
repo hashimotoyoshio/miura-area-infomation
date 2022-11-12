@@ -1,0 +1,15 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 30px;
+    text-align: center;
+}
+
+section {
+    border-style: solid;
+    margin: 30px 200px;
+    padding: 10px;
+}
