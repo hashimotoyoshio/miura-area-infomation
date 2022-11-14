@@ -17,7 +17,7 @@ header {
     font-size: 20px;
 }
 
-a {
+.item {
     display: block;
     text-decoration: none;
     color: black;
@@ -26,6 +26,6 @@ a {
     margin: 30px 200px;
 }
 
-a:hover {
+.item:hover {
     background-color: #dfcba5;
 }
