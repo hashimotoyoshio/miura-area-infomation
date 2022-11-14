@@ -8,8 +8,24 @@ header {
     text-align: center;
 }
 
-section {
+.category {
+    margin: 10px;
+}
+
+.title {
+    margin: 10px;
+    font-size: 20px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
     border-style: solid;
+    border-radius: 20px;
     margin: 30px 200px;
-    padding: 10px;
+}
+
+a:hover {
+    background-color: #dfcba5;
 }
